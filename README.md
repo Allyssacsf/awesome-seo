@@ -5,6 +5,10 @@ Awesome List of SERP Articles & Resources
 - [Best Marketing Tools](http://saijogeorge.com/best-marketing-tools/)
 
 ## Article
-- ### Search Engine
+- Search Engine
  - [The anatomy of a Large-Scare Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
  - [Google Inside Search](https://www.google.com.au/insidesearch/howsearchworks/thestory/)
+
+## SEO - <i>Practical</i>
+### In-page SEO
+#### Keyword Researchsds
