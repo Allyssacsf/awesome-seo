@@ -2,7 +2,8 @@
 Awesome List of SERP Articles & Resources
 
 ## Tools
-- [Best Marketing Tools](http://saijogeorge.com/best-marketing-tools/)
+- [SEO Marketing Tools 1- Saijo George](http://saijogeorge.com/best-marketing-tools/)
+- [App Marketing Tools 2- Apptamin](http://www.apptamin.com/blog/app-developer-tools/#aso)
 
 ## Article
 - Search Engine
@@ -11,4 +12,4 @@ Awesome List of SERP Articles & Resources
 
 ## SEO - <i>Practical</i>
 ### In-page SEO
-#### Keyword Researchsds
+#### Keyword Research
