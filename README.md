@@ -11,5 +11,6 @@ Awesome List of SERP Articles & Resources
  - [Google Inside Search](https://www.google.com.au/insidesearch/howsearchworks/thestory/)
 
 ## SEO - <i>Practical</i>
-### In-page SEO
-#### Keyword Research
+#### In-page SEO
+- [ ] 1. [Keyword Research](https://github.com/Allyssacsf/awesome-keyword-research)
+- [ ] 2. [Local SEO](https://github.com/Allyssacsf/awesome-local-seo)
