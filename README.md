@@ -9,6 +9,12 @@ Awesome List of SERP Articles & Resources
 - Search Engine
  - [The anatomy of a Large-Scare Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
  - [Google Inside Search](https://www.google.com.au/insidesearch/howsearchworks/thestory/)
+ - [Search Engine Roundtable](https://www.seroundtable.com/category/google)
+ - [Search Engine Land](http://searchengineland.com/)
+ - [Search Engine Watch](https://searchenginewatch.com/)
+ 
+- Behavior
+ - [Google Back Button Behavior Triggers People Also Search For Carousel](https://www.seroundtable.com/google-people-also-search-for-carousel-back-22840.html)
 
 ## SEO - <i>Practical</i>
 #### In-page SEO
