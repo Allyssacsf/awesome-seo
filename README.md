@@ -18,7 +18,6 @@ Awesome List of SEO Articles & Resources
 
 ## Algorithm Change History
 - Google
- - As of January 2017 - unclear reviews in marketplace
  - [Google Algorithm Change History] (https://moz.com/google-algorithm-change)
 
 ## SEO - <i>Practical</i>
