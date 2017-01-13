@@ -20,6 +20,7 @@ Awesome List of SEO Articles & Resources
 - Google
  - [Google Algorithm Change History] (https://moz.com/google-algorithm-change)
  - Penguin
+ 
   - 2016
    -**Oct 6, 2016 - Penguin 4.0 Phase 2:** The second phase of Penguin 4.0 was the reversal of all previous Penguin penalties. This seemed to happen after the new code rolled out, and may have taken as long as two weeks. Post-Penguin activity had one final peak on October 6th (116°), but it is unclear whether this was Penguin or a new update. Algorithm temperatures finally started to drop after October 6th.
    -**Sep 27, 2016 - Penguin 4.0 Phase 1:** The first phase of Penguin 4.0, which probably launched around September 22-23, was the rollout of the new, "gentler" Penguin algorithm, which devalues bad links instead of penalizing sites. The exact timeline is unconfirmed, but we believe this rollout took at least a few days to fully update, and may have corresponded to an algorithm temperature spike (113°) on September 27th.
