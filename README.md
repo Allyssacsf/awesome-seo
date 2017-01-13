@@ -22,11 +22,11 @@ Awesome List of SEO Articles & Resources
  
  
  - Penguin
- 
+     
   - 2016
    -**Oct 6 - Penguin 4.0 Phase 2:** The second phase of Penguin 4.0 was the reversal of all previous Penguin penalties. This seemed to happen after the new code rolled out, and may have taken as long as two weeks. Post-Penguin activity had one final peak on October 6th (116°), but it is unclear whether this was Penguin or a new update. Algorithm temperatures finally started to drop after October 6th.
    -**Sep 27 - Penguin 4.0 Phase 1:** The first phase of Penguin 4.0, which probably launched around September 22-23, was the rollout of the new, "gentler" Penguin algorithm, which devalues bad links instead of penalizing sites. The exact timeline is unconfirmed, but we believe this rollout took at least a few days to fully update, and may have corresponded to an algorithm temperature spike (113°) on September 27th.
-   -**Sep 23 - Penguin 4.0 Announcement:** ° temperature and a 50% drop in SERPs with image (universal/vertical) results. The universal result shake-up opened up an organic position on page 1, causing substantial ranking shifts, but it's likely that this was part of a much larger update.   
+   -**Sep 23 - Penguin 4.0 Announcement:** After almost two years of waiting, Google finally announced a major Penguin update. They suggested the new Penguin is now real-time and baked into the "core" algorithm. Initial impact assessments were small, but it was later revealed that the Penguin 4.0 rollout was unusually long and multi-phase (see September 27th and October 6th).
    -**Sep 13 - Image/Universal Drop:** MozCast recorded a nearly-record 111° temperature and a 50% drop in SERPs with image (universal/vertical) results. The universal result shake-up opened up an organic position on page 1, causing substantial ranking shifts, but it's likely that this was part of a much larger update.   
    -**Jan 8 - Unnamed Update:** Multiple tracking tools (including MozCast reported historically-large rankings movement, which Google later confirmed as a "core algo update". Google officially said that this was not a Penguin update, but details remain sketchy.
      
