@@ -4,6 +4,7 @@ Awesome List of SEO Articles & Resources
 ## Tools
 - [SEO Marketing Tools 1- Saijo George](http://saijogeorge.com/best-marketing-tools/)
 - [App Marketing Tools 2- Apptamin](http://www.apptamin.com/blog/app-developer-tools/#aso)
+- [200+ Free SEO Tools List](http://www.webpagefx.com/marketing-guides/free-seo-tools-list.html)
 
 ## Article
 - Search Engine
