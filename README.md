@@ -1,4 +1,4 @@
-# awesome-seo
+# awesome-seo ##digitalmarketing ##seo ##smo ##rankinserachengine
 Awesome List of SEO Articles & Resources
 
 ## Tools
